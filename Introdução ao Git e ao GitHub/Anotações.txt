@@ -1,0 +1,31 @@
+## Links utéis
+
+
+
+Link para download Git: https://git-scm.com/downloads
+
+Link para download GitHub: https://desktop.github.com/
+
+Introdução ao Git e GitHub:
+
+### Comandos básicos Git no Windowns:
+
+cd / _serve para navegar para um local específico
+dir  _listar diretórios
+mkdir _Criar uma pasta
+de/rmdir _deletar/deletar diretório
+ls _ listar
+cd ..  _ voltar um nível
+
+Gerando uma chave de encriptação em um arquivo txt por exemplo: no Gitbash executar o comando: openssl sha1 texto.txt
+
+
+
+### Objetos internos do Git
+
+Blobs  - Trees  - Commits
+
+___________________________________________________________
+
+
+
